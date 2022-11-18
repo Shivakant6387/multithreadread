@@ -1,0 +1,10 @@
+1)what is multiprogramming
+2) what is multitasking
+3)control flow of a program
+4)multithreading in java
+5)thread class
+6)Runnable interface
+7)states of a thread
+8)thread priorities
+9)thread class
+10)thread method constructors , sleep ,interrupt
