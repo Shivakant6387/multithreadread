@@ -8,3 +8,9 @@
 8)thread priorities
 9)thread class
 10)thread method constructors , sleep ,interrupt
+11) Thread methods join and yield
+12)what is synchronisation
+13)what is a monitor
+14)multithreading using monitor
+15)inter thread communication
+
